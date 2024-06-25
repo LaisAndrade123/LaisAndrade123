@@ -1,5 +1,5 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+Sejam+bem-Vindo(a)" alt="Typing SVG" /></a>
-<h2> 💻, Ferramentas e Tecnologias </h2>
+<h2> 💻 Ferramentas e Tecnologias </h2>
 <div>
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white"></a>
   <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white"></a>
