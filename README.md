@@ -13,7 +13,7 @@
 
   
  
-<h2> ✌😉: Sobre Mim! </h2>
+<h2> ✌😉 Sobre Mim! </h2>
 <div>
   <p>Sejam Bem-Vindos!</p>
   <p>Oi, meu nome é Lais! Atualmente estou focada em fazer um curso de desenvolvimento web, mergulhando de cabeça na área de tecnologia e programação. Desde que comecei, tenho descoberto um mundo fascinante de linguagens de programação, design de interfaces e como criar soluções inovadoras para problemas do mundo real. Estou animada para expandir meu conhecimento e habilidades, buscando oportunidades para aplicar o que aprendo e crescer profissionalmente.</p>
