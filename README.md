@@ -19,7 +19,15 @@
   <p>Oi, meu nome é Lais! Atualmente estou focada em fazer um curso de desenvolvimento web, mergulhando de cabeça na área de tecnologia e programação. Desde que comecei, tenho descoberto um mundo fascinante de linguagens de programação, design de interfaces e como criar soluções inovadoras para problemas do mundo real. Estou animada para expandir meu conhecimento e habilidades, buscando oportunidades para aplicar o que aprendo e crescer profissionalmente.</p>
 </div>
 
+#
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 
 
 #
-
+</div>
+<div>
+  <picture align="center">    
+    <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
+  </picture>
+</div>    
